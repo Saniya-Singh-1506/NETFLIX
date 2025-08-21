@@ -3,7 +3,8 @@ import streamlit as st
 import plotly.express as px
 
 # Load data
-df = pd.read_csv("C:\\Users\\hp\\AppData\\Local\\Temp\\2a495318-d246-49b0-9ec4-6377c7752c85_archive (2).zip.c85\\netflix_titles.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/Saniya-Singh-1506/NETFLIX/main/netflix.csv")
+
 
 # Clean data
 df = df.dropna(subset=["type", "release_year", "rating", "country", "duration"])
