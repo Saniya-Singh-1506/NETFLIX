@@ -4,8 +4,8 @@ Explore and visualize Netflix data in an interactive way! 📊
 See the number of movies vs TV shows, content ratings, top countries, and more—all in one dashboard. 🌍✨
 
 
-📂 Dataset Used
-
+📂 Dataset Used 
+https://www.kaggle.com/datasets/shivamb/netflix-shows
 Source: Kaggle – Netflix Movies and TV Shows
  🎯
 Description:
